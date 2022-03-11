@@ -31,12 +31,3 @@ try {
   console.error(`Error occured: ${error}`);
 }
 
-<<<<<<< HEAD
-// hello Dan
-
-//Doro
-//Raphy: follow me on Github: https://github.com/RaphaellyLargo
-//Patric
-=======
-// hello alldhhfh
->>>>>>> 67a21ba7416f2e32866169faf8c9abd9fe57a7aa
