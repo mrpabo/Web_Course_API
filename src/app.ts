@@ -31,4 +31,4 @@ try {
   console.error(`Error occured: ${error}`);
 }
 
-// hello Dan
+// hello all
